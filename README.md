@@ -1,8 +1,4 @@
 # Face Tracker
 
-	Read from facetime camera
-
-Facetime camera
-live stream to sift feature matching
-train on images of touching face and images not touching face.
-track number of times you touch face
+This face tracker uses the front-facing camera and displays ellipses around
+the tracked faces in the frames.
